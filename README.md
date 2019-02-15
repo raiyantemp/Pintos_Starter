@@ -94,4 +94,4 @@ Open up a new terminal tab with the shortcut Ctrl-Shift-t
    - The first command you should always run is `debugpintos` (nothing will work without running this)
    - Then you're all set
 
-For a debugging demonstration in video form, please check out Dr. Yerraballi's [video](https://utexas.app.box.com/s/2r357h16t4xc1xeg3kva69i754ie18yf).
+For a debugging demonstration in video form, please check out Dr. Yerraballi's [video](https://utexas.app.box.com/s/2r357h16t4xc1xeg3kva69i754ie18yf). 
