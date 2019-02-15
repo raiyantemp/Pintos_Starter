@@ -8,7 +8,7 @@
 1. Go to Github and create a private repo:
    - Don't do anything fancy yet (i.e. don't initialize the repo with a readme, don't add a .gitignore, etc)
    - Just give it a name, make sure to choose "private," and then click "create repository"
-2. Clone this repo with `git clone https://github.com/justintemp/Pintos_Starter.git`
+2. Clone this repo with `git clone https://github.com/raiyantemp/Pintos_Starter.git`
 3. Cd into the folder you just cloned `cd Pintos_Starter`
 4. Change the .git folder with `rm -rf .git`
 5. Create a blank .git folder with `git init`
